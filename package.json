@@ -1,0 +1,17 @@
+{
+  "name": "gdpr",
+  "version": "1.0.0",
+  "description": "General Data Protection Regulation (GDPR) utilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pihvi/GDPR.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pihvi/GDPR/issues"
+  },
+  "homepage": "https://github.com/pihvi/GDPR#readme"
+}
